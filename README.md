@@ -1,7 +1,7 @@
 # Limpiar Tu Sistema
 ## Script en Bash para limpiar y optimizar tu sistema.
 
-❌ Descargalo y ejecutalo desde la consola con el siguiente comando:
+❌ Descárgalo y ejecutalo desde la consola con el siguiente comando:
 ```
 ./limpiar.sh
 ```
@@ -11,5 +11,4 @@
 chmod +x limpiar.sh
 ```
 
-✅ Una vez lo ejecutes, esperas un momento y tendras tu sistema
-optimizado y actualizados los repositorios.
+✅ Una vez lo ejecutes, esperas un momento y tendrás tu sistema optimizado y actualizados los repositorios.
