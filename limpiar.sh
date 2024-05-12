@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo ""
 echo "Script para optimizar tu sistema."
 echo "By: Dajachi"
